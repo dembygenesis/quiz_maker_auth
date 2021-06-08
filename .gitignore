@@ -1,0 +1,9 @@
+.env
+.idea
+./droppy_go
+droppy_go
+/public
+*credentials.json
+src/v1/config/token.json
+ayp_go
+lien
